@@ -4,4 +4,4 @@ Rook-decon - Rook Deconstructed
 
 ## Presentation
 
-http://rook-decon.carson-anderson.com/Layers/0-roo-intro.sozi.html
+http://rook-decon.swiftsure.io/layers/0-rook-intro.sozi.html
