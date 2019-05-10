@@ -10,5 +10,5 @@ Sozi: @senshu
 **Etcd Logo**: Coreos
 **Caddy Logo**: Light Code Labs
 
-**hard disk**: mynamepong from <https://flaticon.com>
-**ssd**: DinosoftLabs from <https://flaticon.com>
+**white cloud**: Openclipart from <https://publicdomainvectors.org>
+**padlock**: Openclipart from <https://publicdomainvectors.org>
