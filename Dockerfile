@@ -14,7 +14,7 @@ FROM abiosoft/caddy
 #Add extra files
 COPY demo /srv/demo
 COPY docs /srv/docs
-COPY pdf  /srv/pdf
+# COPY pdf  /srv/pdf
 
 COPY --from=0 /out/* /srv/
 
