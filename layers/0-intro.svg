@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="366.65894mm"
-   height="847.08667mm"
-   viewBox="0 0 366.65893 847.08668"
+   width="389.79559mm"
+   height="132.55624mm"
+   viewBox="0 0 389.79559 132.55625"
    version="1.1"
    id="svg9469"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -23,15 +23,16 @@
        inkscape:isstock="true"
        style="overflow:visible"
        id="marker49962"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Lstart">
       <path
-         transform="scale(1.1) translate(1,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         id="path49960" />
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path49960"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:isstock="true"
@@ -682,15 +683,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="432.16509"
-     inkscape:cy="1152.6571"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="449.67764"
+     inkscape:cy="629.08126"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer4"
      showgrid="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
-     inkscape:window-x="-9"
+     inkscape:window-width="2100"
+     inkscape:window-height="1234"
+     inkscape:window-x="3191"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -708,40 +709,40 @@
        id="grid10014"
        empspacing="5"
        spacingy="2.6458333"
-       originx="80.350258"
-       originy="244.85419" />
+       originx="34.502675"
+       originy="33.20521" />
     <sodipodi:guide
-       position="114.72064,383.76041"
+       position="68.873062,172.11144"
        orientation="1,0"
        id="guide5233"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="252.20216,304.38542"
+       position="206.35459,92.736447"
        orientation="1,0"
        id="guide5235"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="23.066293,449.90626"
+       position="-22.78129,238.2573"
        orientation="1,0"
        id="guide6249"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0.15270623,449.90626"
+       position="-45.694878,238.2573"
        orientation="1,0"
        id="guide6251"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="183.46141,251.46876"
+       position="137.61384,39.819784"
        orientation="1,0"
        id="guide6799"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-22.760883,449.90624"
+       position="-68.608469,238.25728"
        orientation="1,0"
        id="guide7537"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="206.37499,423.44793"
+       position="160.52742,211.79896"
        orientation="1,0"
        id="guide29008"
        inkscape:locked="false" />
@@ -762,7 +763,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="banner"
-     transform="translate(45.979881,44.979106)"
+     transform="translate(0.13229823,-457.90233)"
      style="display:inline">
     <path
        style="display:inline;fill:#f9f9f9;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -890,7 +891,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer15"
-     inkscape:label="contact">
+     inkscape:label="contact"
+     transform="translate(-45.847583,-502.88144)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:25px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
@@ -947,7 +949,8 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="menu"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-45.847583,-502.88144)">
     <rect
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7969"
@@ -960,7 +963,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer14"
-     inkscape:label="highlight">
+     inkscape:label="highlight"
+     transform="translate(-45.847583,-502.88144)">
     <rect
        style="opacity:1;fill:#f0424d;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8173"
@@ -974,7 +978,8 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="links"
-     style="opacity:0.95">
+     style="opacity:0.95"
+     transform="translate(-45.847583,-502.88144)">
     <text
        transform="matrix(0.26457916,0,0,0.26458751,-595.9134,827.87307)"
        id="text8025"
@@ -1013,7 +1018,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66666412px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:7.15559387px">Storage</tspan></text>
     <a
        xlink:href="./2-cluster.sozi.html"
-       style=""
        id="a8061">
       <rect
          transform="scale(0.26458333)"
@@ -1026,7 +1030,6 @@
     </a>
     <a
        xlink:href="./3-storage.sozi.html"
-       style=""
        id="a8064">
       <rect
          transform="scale(0.26458333)"
@@ -1039,7 +1042,6 @@
     </a>
     <a
        xlink:href="./4-backup.sozi.html"
-       style=""
        transform="translate(-8.0027659e-7,-3.5390925e-6)"
        id="a8067">
       <rect
@@ -1065,7 +1067,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66666412px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:7.15559387px">User</tspan></text>
     <a
        xlink:href="./1-basics.sozi.html"
-       style=""
        id="a8058">
       <rect
          transform="scale(0.26458333)"
