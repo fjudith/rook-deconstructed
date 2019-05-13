@@ -18,7 +18,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="rook-ceph.svg">
+   sodipodi:docname="rook-ceph.svg"
+   inkscape:export-filename="C:\Users\psi4i\git\rook-deconstructed\layers\rook-ceph.png"
+   inkscape:export-xdpi="19.30471"
+   inkscape:export-ydpi="19.30471">
   <title
      id="title38116">Rook-Ceph architecture</title>
   <defs
@@ -2742,9 +2745,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45323895"
-     inkscape:cx="2372.5735"
-     inkscape:cy="1891.3821"
+     inkscape:zoom="0.32048833"
+     inkscape:cx="3094.1275"
+     inkscape:cy="1759.9001"
      inkscape:document-units="mm"
      inkscape:current-layer="layer10"
      showgrid="true"
