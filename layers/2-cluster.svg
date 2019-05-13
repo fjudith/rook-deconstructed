@@ -694,9 +694,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="1301.2102"
-     inkscape:cy="3059.7392"
+     inkscape:cy="3688.3106"
      inkscape:document-units="mm"
-     inkscape:current-layer="g33679"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="2100"
      inkscape:window-height="1234"
@@ -927,10 +927,10 @@
        y="1951.1543"
        transform="matrix(0.26458333,0,0,0.26458333,-23.066302,-547.68743)" />
     <a
-       style="display:inline;opacity:0.95;enable-background:new"
-       id="a8058"
+       xlink:href="./1-basics.sozi.html"
        transform="translate(-114.72066,-534.45827)"
-       xlink:href="C:\Users\psi4i\OneDrive\Images\Logos\./1-basics.sozi.html">
+       id="a8058"
+       style="display:inline;opacity:0.95;enable-background:new">
       <rect
          transform="scale(0.26458333)"
          y="1901.1543"
@@ -993,10 +993,10 @@
          y="-865.9552"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66666412px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:7.15559387px">Storage</tspan></text>
     <a
-       style="display:inline;opacity:0.95;enable-background:new"
-       id="a8061"
+       xlink:href="./2-cluster.sozi.html"
        transform="translate(-114.72066,-534.45827)"
-       xlink:href="C:\Users\psi4i\OneDrive\Images\Logos\./2-cluster.sozi.html">
+       id="a8061"
+       style="display:inline;opacity:0.95;enable-background:new">
       <rect
          transform="scale(0.26458333)"
          y="2001.1543"
@@ -1007,10 +1007,10 @@
          style="opacity:0.01000001;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </a>
     <a
-       style="display:inline;opacity:0.95;enable-background:new"
-       id="a8064"
+       xlink:href="./3-storage.sozi.html"
        transform="translate(-114.72066,-534.45827)"
-       xlink:href="C:\Users\psi4i\OneDrive\Images\Logos\./3-storage.sozi.html">
+       id="a8064"
+       style="display:inline;opacity:0.95;enable-background:new">
       <rect
          transform="scale(0.26458333)"
          y="2101.1543"
@@ -1021,10 +1021,10 @@
          style="opacity:0.01000001;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </a>
     <a
-       style="display:inline;opacity:0.95;enable-background:new"
-       transform="translate(-114.72066,-534.45827)"
+       xlink:href="./4-backup.sozi.html"
        id="a8067"
-       xlink:href="C:\Users\psi4i\OneDrive\Images\Logos\./4-backup.sozi.html">
+       transform="translate(-114.72066,-534.45827)"
+       style="display:inline;opacity:0.95;enable-background:new">
       <rect
          transform="scale(0.26458333)"
          y="2201.1543"
