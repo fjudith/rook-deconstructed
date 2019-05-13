@@ -19,6 +19,8 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="1-basics.svg"
    style="enable-background:new">
+  <title
+     id="title10792">Rook-Ceph Basics</title>
   <defs
      id="defs9463">
     <marker
@@ -3576,9 +3578,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="3355.5944"
-     inkscape:cy="3362.2265"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="2293.7386"
+     inkscape:cy="2893.806"
      inkscape:document-units="mm"
      inkscape:current-layer="layer53"
      showgrid="true"
@@ -3689,8 +3691,30 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Rook-Ceph Basics</dc:title>
+        <dc:date>2019-05-12</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Florian JUDITH</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://github.com/fjudith/rook-deconstructed</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -5183,7 +5207,7 @@
          sodipodi:role="line"
          id="tspan16261"
          x="-1038.6533"
-         y="2171.0078"></tspan></text>
+         y="2171.0078" /></text>
     <text
        transform="matrix(0.26458333,0,0,0.26458333,-0.46854302,21.343052)"
        id="text16259-2"
