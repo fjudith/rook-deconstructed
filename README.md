@@ -8,6 +8,6 @@ Rook-decon - Rook Deconstructed
 
 <img src="./layers/rook-ceph.svg">
 
-http://rook-decon.swiftsure.io/layers/0-basics.sozi.html
+http://rook-decon.swiftsure.io/layers/0-intro.sozi.html
 
 
