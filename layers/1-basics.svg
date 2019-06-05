@@ -3578,11 +3578,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1670.0704"
-     inkscape:cy="5269.6848"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="515.37875"
+     inkscape:cy="4257.3676"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer23"
      showgrid="true"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
@@ -3951,9 +3951,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66666412px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:7.15559387px">Storage</tspan></text>
     <a
        xlink:href="./2-cluster.sozi.html"
-       transform="translate(-584.29652,-191.82292)"
+       style="display:inline;opacity:0.95"
        id="a8061"
-       style="display:inline;opacity:0.95">
+       transform="translate(-584.29652,-191.82292)">
       <rect
          transform="scale(0.26458333)"
          y="2001.1543"
@@ -3965,9 +3965,9 @@
     </a>
     <a
        xlink:href="./3-storage.sozi.html"
-       transform="translate(-584.29652,-191.82292)"
+       style="display:inline;opacity:0.95"
        id="a8064"
-       style="display:inline;opacity:0.95">
+       transform="translate(-584.29652,-191.82292)">
       <rect
          transform="scale(0.26458333)"
          y="2101.1543"
@@ -3979,9 +3979,9 @@
     </a>
     <a
        xlink:href="./4-backup.sozi.html"
-       id="a8067"
+       style="display:inline;opacity:0.95"
        transform="translate(-584.29652,-191.82292)"
-       style="display:inline;opacity:0.95">
+       id="a8067">
       <rect
          transform="scale(0.26458333)"
          y="2201.1543"
@@ -5395,6 +5395,14 @@
          x="-1081.9546"
          id="tspan16363"
          sodipodi:role="line">Run admin/management tasks as one-off processes</tspan></text>
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.86633724;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       id="rect38299-1-9-6-9-6-7-0-0"
+       width="1104.9778"
+       height="800.60803"
+       x="-65.747269"
+       y="1030.5468"
+       transform="matrix(0.35252385,0,0,0.29743024,-950.49735,189.88336)" />
   </g>
   <g
      inkscape:groupmode="layer"
